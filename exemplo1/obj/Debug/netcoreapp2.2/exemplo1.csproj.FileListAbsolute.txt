@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\bin\Debug\netcoreapp2.2\exemplo1.deps.json
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\bin\Debug\netcoreapp2.2\exemplo1.runtimeconfig.json
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\bin\Debug\netcoreapp2.2\exemplo1.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\bin\Debug\netcoreapp2.2\exemplo1.dll
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\bin\Debug\netcoreapp2.2\exemplo1.pdb
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.AssemblyInfo.cs
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.dll
+C:\Users\FIC\Desktop\ManipulacaoWord\exemplo1\obj\Debug\netcoreapp2.2\exemplo1.pdb
